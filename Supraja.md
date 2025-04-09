@@ -8,7 +8,7 @@
 
 | Time     | Topic                    | Activities                                                                 | Deliverables                                                                 | Status         |
 |----------|--------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------|----------------|
-| 0–1 hr   | **Java Basics**          | - Install Java + IDE (IntelliJ / VS Code)  <br> - Variables, data types, control structure,input/output operation   | - ✅ Simple calculator <br> - [ ] Grading logic using if-else              | - [ ] Completed    |
+| 0–1 hr   | **Java Basics**          | - Install Java + IDE (IntelliJ / VS Code)  <br> - Variables, data types, control structure,input/output operation   | -  Simple calculator <br> - [ ] Grading logic using if-else              | - [ ] Completed    |
 | 1–2 hr   | **Loops & I/O**          | - For, while, do-while <br> - `Scanner`, console I/O                      | - [ ] Print patterns <br> - [ ] Menu-driven program                         | - [ ] Completed    |
 | 2–4 hr   | **OOP - Classes/Objects**| - Creating classes, objects, constructors, methods <br> - Encapsulation  | - [ ] Bank account simulation <br> - [ ] Student result class               | - [ ] Completed    |
 | 4–5 hr   | **Java Collections**     | - `ArrayList`, `HashMap`, `HashSet` basics <br> - For-each loop          | - [ ] Employee list manager using ArrayList                                 | - [ ] Completed    |
